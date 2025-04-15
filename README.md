@@ -1,5 +1,5 @@
 ## Student CRUD Database  System in C++.
-A database to manage student records.  This projects implements the core CRUD operations (Create, Read, Update and Delete) along with a file I/O for data persistence and also a Search Function. 
+A database to manage student records.  This project implements the core CRUD operations (Create, Read, Update and Delete) along with a file I/O for data persistence and also a Search Function. 
 
 ## Features
 **Add Student:** Input a student's ID, name, age, and grade average.
