@@ -11,11 +11,10 @@ A database to manage student records.  This project implements the core CRUD ope
 
 ## File structure
 ├── StudentDB.h # Header file with class definitions and function prototypes.
-├── StudentDB.cpp # Contains function definitions including file I/O implementations.
-├── main.cpp # Contains the main() function and menu logic.
+├── StudentDB.cpp #  function definitions including file I/O implementations.
+├── main.cpp # main() function and menu logic.
 
 
-## Getting Started
 
 ### Prerequisites
 
@@ -32,16 +31,9 @@ A database to manage student records.  This project implements the core CRUD ope
    cd student-db
     ````
    
-   If you're using g++:
+   g++:
    ```
    g++ main.cpp StudentDB.cpp -o student-db
 ``
 
 
-
-
-
-
-
-## Suggestions
-If you have suggestions for improvements, feel free to fork the repo and create a pull request. For major changes, please open an issue first to discuss what you’d like to change.
