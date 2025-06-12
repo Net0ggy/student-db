@@ -3,16 +3,24 @@ A database to manage student records.  This project implements the core CRUD ope
 
 ## Features
 **Add Student:** Input a student's ID, name, age, and grade average.
+
 **Display All** Students: Show all stored student records.
+
 **Search Student:** Search by ID, name, age, or grade average.
+
 **Delete Student:** Remove a student record based on different criteria.
+
 **Modify Student:** Update student details (ID, name, age, or grade average).
+
 *All records are saved to a file (students.txt) and reloaded when the program starts.*
 
 ## File structure
 ├── StudentDB.h # Header file with class definitions and function prototypes.
+
 ├── StudentDB.cpp #  function definitions including file I/O implementations.
+
 ├── main.cpp # main() function and menu logic.
+
 
 
 
