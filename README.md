@@ -44,4 +44,8 @@ A database to manage student records.  This project implements the core CRUD ope
    g++ main.cpp StudentDB.cpp -o student-db
 ``
 
+```
+./student-db.exe
+
+
 
